@@ -13,7 +13,6 @@
  **********************************************************************************************/
 
 #include "AodvRouting.h"
-#include <csimulation.h>
 
 Define_Module(AodvRouting);
 

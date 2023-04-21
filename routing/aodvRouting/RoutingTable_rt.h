@@ -18,7 +18,7 @@
 #endif // ROUTINGTABLE_H
 #include <string>
 #include <list>
-#include "CastaliaModule.h"
+#include "helpStructures/CastaliaModule.h"
 
 enum RoutingFlag {
     NOT_DEFINED = 0,

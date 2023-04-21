@@ -13,7 +13,7 @@
 
 cplusplus {{
 
-#include "PacketId_m.h"
+#include "node/communication/routing/PacketId_m.h"
 }}
 //id =6
 class PacketId;

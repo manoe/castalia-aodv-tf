@@ -19,12 +19,12 @@
 #include <list>
 #include <map>
 #include <queue>
-#include "VirtualRouting.h"
+#include "node/communication/routing/VirtualRouting.h"
 #include "AodvRoutingPacket_m.h"
 #include "AodvRoutingRrepPacket_m.h"
 #include "AodvRoutingDataPacket_m.h"
 #include "RoutingTable_rt.h"
-#include "PacketId_m.h"
+#include "node/communication/routing/PacketId_m.h"
 
 using namespace std;
 

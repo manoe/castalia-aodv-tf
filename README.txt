@@ -9,7 +9,8 @@
  *                                                                                             *
  *  Author(s): C. Perkins                                                                      *
  *  Reference Paper: RFC 3561                                                                  *
- *  Implementarion: Thiago Fernandes <thiago.oliveira@itec.ufpa.br> <thiagofdso.ufpa@gmail.com>* **********************************************************************************************/
+ *  Implementarion: Thiago Fernandes <thiago.oliveira@itec.ufpa.br> <thiagofdso.ufpa@gmail.com>*
+ **********************************************************************************************/
 
 Steps to install the AODV
 

@@ -27,3 +27,6 @@ Steps to install the AODV
 7. Go to the path Castalia-3.2/Simulations/AODVTest and type the following command: Castalia -c General
 
 8.  Enjoy :)
+
+Remark:
+Original source code: http://www.gercom.ufpa.br/index.php?option=com_osdownloads&view=item&id=9&Itemid=346&lang=br

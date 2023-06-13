@@ -19,12 +19,12 @@ Define_Module(AodvRouting);
 void AodvRouting::startup()
 {
 	//parametres
-	activeRouteTimeout = (double)par("activeRouteTimeout") / 1000.0;
+	activeRouteTimeout = par("activeRouteTimeout").intValue() / 1000.0;
 	allowedHelloLoss = par("allowedHelloLoss");
-	helloInterval = (double)par("helloInterval") / 1000.0;
+	helloInterval = par("helloInterval").intValue() / 1000.0;
 	localAddTTL = par("localAddTTL");
 	netDiameter = par("netDiameter");
-	nodeTraversalTime = (double)par("nodeTraversalTime") / 1000.0;
+	nodeTraversalTime = par("nodeTraversalTime").intValue() / 1000.0;
 	rerrRatelimit = par("rerrRatelimit");
 	rreqRetries = par("rreqRetries");
 	rreqRatelimit = par("rreqRatelimit");
